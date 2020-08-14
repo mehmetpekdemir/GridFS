@@ -5,7 +5,7 @@
 ### Tech Stack
   - Java 11
   - Spring Boot
-  - MongoDb
+  - MongoDB
   - GridFS
   - Docker
   
